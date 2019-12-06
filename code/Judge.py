@@ -10,11 +10,13 @@ else:
 
 #循环语句
 lists = ['aaa', 'bbb', 'ccc']
+#for 循环
 for i in lists:
     print(i)
 
 sum = 0
 num = 0
+#while 循环
 while num < 100:
     sum += num
     num += 1
